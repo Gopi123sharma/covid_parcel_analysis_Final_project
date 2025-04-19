@@ -6,6 +6,7 @@ This project analyzes the effect of COVID-19 on parcel volume, customer segments
 - `COVID_Parcel_Business.csv`: Raw dataset
 - `Gurpreet_akshen_Final_project.ipynb`: Jupyter Notebook with code and charts
 - `COVID19_Executive_Summary.pptx`: Final executive summary slide
+- `Project_Power_BI`: Final Power BI slides to show the Plots
 
 ## Instructions
 Open the notebook and run each cell to replicate the analysis.
